@@ -15,7 +15,7 @@ My pronouns are he/him.
 
 [mitre]: https://mitre.org
 [rust]: https://rust-lang.org
-[poss]: https://possiblerust.com
+[poss]: https://www.possiblerust.com
 
 
 <!--
