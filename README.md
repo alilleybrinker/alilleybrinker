@@ -16,13 +16,6 @@ If you're interested in learning Rust and want help navigating the language and 
 happy to work with you! My preferred platform to get started is Twitter; feel free to DM me
 ([@alilleybrinker][twitter]) if you're interested!
 
-Other things about me:
-
-* I'm passionate about inclusion and diversity, and always trying to learn how to be a better
-  ally and supporter of those around me.
-* I got my start programming with HTML, CSS, and JavaScript by writing themes for iPBfree
-  internet forums.
-
 My pronouns are he/him.
 
 [mitre]: https://mitre.org
