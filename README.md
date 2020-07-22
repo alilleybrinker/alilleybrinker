@@ -1,4 +1,4 @@
-# Hi, I'm Andrew!
+# Hi, I'm Andrew! :wave:
 
 I work on software security at [MITRE][mitre] by day and teach, write, and blog about Rust at night!
 
@@ -11,12 +11,18 @@ My main interests are in how we make software safer and more secure, including:
 
 I blog about the [Rust programming language][rust] at [PossibleRust.com][poss].
 
+I'm currently looking for Rust mentees as part of the [Awesome Rust Mentors][mentor] project!
+If you're interested in learning Rust and want help navigating the language and community, I'm
+happy to work with you! My preferred platform to get started is Twitter; feel free to DM me
+([@alilleybrinker][twitter]) if you're interested!
+
 My pronouns are he/him.
 
 [mitre]: https://mitre.org
 [rust]: https://rust-lang.org
 [poss]: https://www.possiblerust.com
-
+[mentor]: https://rustbeginners.github.io/awesome-rust-mentors/
+[twitter]: https://twitter.com/alilleybrinker
 
 <!--
 **alilleybrinker/alilleybrinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
