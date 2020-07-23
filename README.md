@@ -22,7 +22,7 @@ My pronouns are he/him.
 [poss]: https://www.possiblerust.com
 [mentor]: https://rustbeginners.github.io/awesome-rust-mentors/
 [twitter]: https://twitter.com/alilleybrinker
-[mentoring_page]: ./MENTORING.md
+[mentoring_page]: https://github.com/alilleybrinker/alilleybrinker/blob/master/MENTORING.md
 
 <!--
 **alilleybrinker/alilleybrinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
