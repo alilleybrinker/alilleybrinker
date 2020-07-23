@@ -41,6 +41,17 @@ make sure I can give people the attention they need. If I have an active mentee
 who no longer needs as much engagement, I'll move them to "alumni" status and usually
 open up another mentoring slot.
 
+## Before I Add a Mentee
+
+There are some things I want to know about any possible mentees. I'll ask these questions
+before taking anyone on:
+
+1. What name should I call you?
+2. What are your preferred pronouns?
+3. Why are you interested in Rust?
+4. Have you used Rust or attempted to use Rust before?
+5. Are there any technical areas you're interested in applying Rust to?
+
 ## Code of Conduct
 
 All communications between me and any mentees are subject to the [Rust Code of Conduct][coc],
