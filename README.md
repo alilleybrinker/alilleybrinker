@@ -15,7 +15,9 @@ __I'm currently looking for Rust mentees as part of the [Awesome Rust Mentors][m
 If you're interested in learning Rust and want help navigating the language and community, I'm
 happy to work with you! Check out my [Mentoring Page][mentoring_page] if you're interested!__
 
-My pronouns are he/him.
+- 🔭 I’m currently working on [adding FFI][ffi] to the core mechanisms in [Pact][pact].
+- 📫 How to reach me: [@alilleybrinker on Twitter][twitter]
+- 😄 Pronouns: he/him
 
 [mitre]: https://mitre.org
 [rust]: https://rust-lang.org
@@ -23,6 +25,8 @@ My pronouns are he/him.
 [mentor]: https://rustbeginners.github.io/awesome-rust-mentors/
 [twitter]: https://twitter.com/alilleybrinker
 [mentoring_page]: https://github.com/alilleybrinker/alilleybrinker/blob/master/MENTORING.md
+[pact]: https://pact.io/
+[ffi]: https://github.com/mitre/pact-reference/tree/pact_matching_ffi
 
 <!--
 **alilleybrinker/alilleybrinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
