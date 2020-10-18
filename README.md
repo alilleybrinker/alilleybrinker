@@ -11,10 +11,6 @@ My main interests are in how we make software safer and more secure, including:
 
 I blog about the [Rust programming language][rust] at [PossibleRust.com][poss].
 
-__I'm currently looking for Rust mentees as part of the [Awesome Rust Mentors][mentor] project!
-If you're interested in learning Rust and want help navigating the language and community, I'm
-happy to work with you! Check out my [Mentoring Page][mentoring_page] if you're interested!__
-
 - 🔭 I’m currently working on [adding FFI][ffi] to the core mechanisms in [Pact][pact].
 - 📫 How to reach me: [@alilleybrinker on Twitter][twitter]
 - 😄 Pronouns: he/him
