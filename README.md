@@ -21,6 +21,13 @@ safer and more secure. This may at any point include:
 * :scroll: Formal methods (proving things safe!)
 * :package: Software supply chain security
 
+## Cool Things I've Done
+
+* ⛓️ [Exposed the core of the `pact-reference` crate over FFI.](https://github.com/pact-foundation/pact-reference/pull/97)
+* 🖋️ [Wrote the initial version of the Rust Frequently Asked Questions page.](https://github.com/rust-lang/prev.rust-lang.org/pull/202) ([plus some updates](https://github.com/rust-lang/prev.rust-lang.org/pulls?q=is%3Apr+author%3Aalilleybrinker+is%3Aclosed))
+* 🎒 [Spoke about my experiences teaching Rust to undergrads in a programming language theory class at RustConf 2017](https://www.youtube.com/watch?v=0PhfaFkzdBA)
+* 📖 [Spoke about how to think about documentation for Rust projects at Rust Belt Rust 2016](https://www.youtube.com/watch?v=Wz2oFEDwiOk)
+
 ## Misc.
 
 - 📫 How to reach me: [@alilleybrinker on Twitter][twitter]
