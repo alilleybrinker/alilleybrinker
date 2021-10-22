@@ -7,6 +7,12 @@ Here's some of what I do:
 - 🗨️ Keep a [list of languages written in Rust][langs].
 - ⁉️ Maintain [woah][woah], a better `Result` type.
 
+Other projects looking for collaborators include:
+
+- [`cargo-migrate`][migrate], so library authors can help their users update to new APIs automatically.
+- [`tin`][tin], a project to learn how to implement a real-world programming language.
+- [`skej`][skej], a little tool for analysis of transactions and concurrent scheduling.
+
 In the past, I...
 
 - ⛓️ [Built the first FFI interface for Pact](https://github.com/pact-foundation/pact-reference/pull/97).
@@ -24,3 +30,6 @@ You can reach me [@alilleybrinker on Twitter][twitter]. My pronouns are he/him.
 [langs]: https://github.com/alilleybrinker/langs-in-rust
 [woah]: https://github.com/alilleybrinker/woah/
 [mentoring_page]: https://github.com/alilleybrinker/alilleybrinker/blob/master/MENTORING.md
+[migrate]: https://gist.github.com/alilleybrinker/4ed6badfa317cd6d5e9f74c95d71309a
+[tin]: https://github.com/alilleybrinker/tin
+[skej]: https://github.com/alilleybrinker/skej
