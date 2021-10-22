@@ -17,8 +17,8 @@ In the past, I...
 
 - ⛓️ [Built the first FFI interface for Pact](https://github.com/pact-foundation/pact-reference/pull/97).
 - 🖋️ [Wrote the old Rust FAQ](https://github.com/rust-lang/prev.rust-lang.org/pull/202).
-- 🎒 [Spoke at RustConf 2017 about teaching Rust in a programming language theory class](https://www.youtube.com/watch?v=0PhfaFkzdBA)
-- 📖 [Spoke at Rust Belt Rust 2016 about how to write good documentation](https://www.youtube.com/watch?v=Wz2oFEDwiOk)
+- 🎒 [Spoke at RustConf 2017 about teaching Rust in a programming language theory class](https://www.youtube.com/watch?v=0PhfaFkzdBA).
+- 📖 [Spoke at Rust Belt Rust 2016 about how to write good documentation](https://www.youtube.com/watch?v=Wz2oFEDwiOk).
 
 You can reach me [@alilleybrinker on Twitter][twitter]. My pronouns are he/him.
 
