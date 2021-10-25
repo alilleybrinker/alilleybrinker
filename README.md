@@ -12,7 +12,7 @@ Other projects looking for collaborators include:
 - [`cargo-migrate`][migrate], so library authors can help their users update to new APIs automatically.
 - [`tin`][tin], a project to learn how to implement a real-world programming language.
 - [`skej`][skej], a little tool for analysis of transactions and concurrent scheduling.
-- [`tcalc`][tcalc], a little duration calculator tool
+- [`tcalc`][tcalc], a little duration calculator tool.
 
 In the past, I...
 
