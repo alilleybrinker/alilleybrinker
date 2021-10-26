@@ -12,7 +12,7 @@ Other projects looking for collaborators include:
 - [`cargo-migrate`][migrate], so library authors can help their users update to new APIs automatically.
 - [`tin`][tin], a project to learn how to implement a real-world programming language.
 - [`skej`][skej], a little tool for analysis of transactions and concurrent scheduling.
-- [`tcalc`][tcalc], a little duration calculator tool.
+- [`howlong`][howlong], a little duration calculator tool.
 
 In the past, I...
 
@@ -34,4 +34,4 @@ You can reach me [@alilleybrinker on Twitter][twitter]. My pronouns are he/him.
 [migrate]: https://gist.github.com/alilleybrinker/4ed6badfa317cd6d5e9f74c95d71309a
 [tin]: https://github.com/alilleybrinker/tin
 [skej]: https://github.com/alilleybrinker/skej
-[tcalc]: https://github.com/alilleybrinker/tcalc
+[howlong]: https://github.com/alilleybrinker/howlong
