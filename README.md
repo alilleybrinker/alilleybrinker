@@ -6,13 +6,13 @@ Here's some of what I do:
 - 🦀 Teach at [Possible Rust][poss].
 - 🗨️ Keep a [list of languages written in Rust][langs].
 - ⁉️ Maintain [woah][woah], a better `Result` type.
+- ⏲️ Maintain [dcalc][dcalc], a CLI duration calculator.
 
 Other projects looking for collaborators include:
 
 - [`cargo-migrate`][migrate], so library authors can help their users update to new APIs automatically.
 - [`tin`][tin], a project to learn how to implement a real-world programming language.
 - [`skej`][skej], a little tool for analysis of transactions and concurrent scheduling.
-- [`dcalc`][dcalc], a little duration calculator tool.
 
 In the past, I...
 
