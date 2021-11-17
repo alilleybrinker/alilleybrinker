@@ -7,6 +7,7 @@ Here's some of what I do:
 - 🗨️ Keep a [list of languages written in Rust][langs].
 - ⁉️ Maintain [woah][woah], a better `Result` type.
 - ⏲️ Maintain [dcalc][dcalc], a CLI duration calculator.
+- 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for converting Semantic Versioning requirements into less-than, greater-than, and/or equal-to form.
 
 Other projects looking for collaborators include:
 
@@ -35,3 +36,4 @@ You can reach me [@alilleybrinker on Twitter][twitter]. My pronouns are he/him.
 [tin]: https://github.com/alilleybrinker/tin
 [skej]: https://github.com/alilleybrinker/skej
 [dcalc]: https://github.com/alilleybrinker/dcalc
+[semver-explain]: https://github.com/alilleybrinker/semver-explain
