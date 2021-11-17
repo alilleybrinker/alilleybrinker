@@ -7,7 +7,7 @@ Here's some of what I do:
 - 🗨️ Keep a [list of languages written in Rust][langs].
 - ⁉️ Maintain [woah][woah], a better `Result` type.
 - ⏲️ Maintain [dcalc][dcalc], a CLI duration calculator.
-- 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for converting Semantic Versioning requirements into less-than, greater-than, and/or equal-to form.
+- 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for explaining SemVer requirements.
 
 Other projects looking for collaborators include:
 
