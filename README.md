@@ -9,12 +9,6 @@ Here's some of what I do:
 - ⏲️ Maintain [dcalc][dcalc], a CLI duration calculator.
 - 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for explaining SemVer requirements.
 
-Other projects looking for collaborators include:
-
-- [`cargo-migrate`][migrate], so library authors can help their users update to new APIs automatically.
-- [`tin`][tin], a project to learn how to implement a real-world programming language.
-- [`skej`][skej], a little tool for analysis of transactions and concurrent scheduling.
-
 In the past, I...
 
 - ⛓️ [Built the first FFI interface for Pact](https://github.com/pact-foundation/pact-reference/pull/97).
