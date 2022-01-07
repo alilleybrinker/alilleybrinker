@@ -9,7 +9,7 @@ Here's some of what I do:
 - ⁉️ Maintain [woah][woah], a better `Result` type.
 - ⏲️ Maintain [dcalc][dcalc], a CLI duration calculator.
 - 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for explaining SemVer requirements.
-- 🐱 Built [good-cat][good-cat], a cat that hates pipes.
+- 🐱 Maintain [good-cat][good-cat], a cat that hates pipes.
 
 In the past, I...
 
