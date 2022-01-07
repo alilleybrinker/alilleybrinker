@@ -8,6 +8,7 @@ Here's some of what I do:
 - ⁉️ Maintain [woah][woah], a better `Result` type.
 - ⏲️ Maintain [dcalc][dcalc], a CLI duration calculator.
 - 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for explaining SemVer requirements.
+- 🐱 Built [good-cat][good-cat], a cat that hates pipes.
 
 In the past, I...
 
@@ -31,3 +32,4 @@ You can reach me [@alilleybrinker on Twitter][twitter]. My pronouns are he/him.
 [skej]: https://github.com/alilleybrinker/skej
 [dcalc]: https://github.com/alilleybrinker/dcalc
 [semver-explain]: https://github.com/alilleybrinker/semver-explain
+[good-cat]: https://github.com/alilleybrinker/good-cat
