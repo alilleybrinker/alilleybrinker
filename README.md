@@ -3,7 +3,8 @@
 Here's some of what I do:
 
 - 🔧 Work on software supply chain security at [MITRE][mitre].
-- 🦀 Teach at [Possible Rust][poss].
+- 🎓 Study Computer Science for my MCS at Rice University.
+- 🦀 Teach at [Possible Rust][poss] (on hiatus).
 - 🗨️ Keep a [list of languages written in Rust][langs].
 - ⁉️ Maintain [woah][woah], a better `Result` type.
 - ⏲️ Maintain [dcalc][dcalc], a CLI duration calculator.
