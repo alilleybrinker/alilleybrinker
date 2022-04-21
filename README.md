@@ -10,6 +10,7 @@ Here's some of what I do:
 - ⏲️ Maintain [dcalc][dcalc], a CLI duration calculator.
 - 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for explaining SemVer requirements.
 - 🐱 Maintain [good-cat][good-cat], a cat that hates pipes.
+- 🛑 Maintain [replace_err][replace_err], a `replace_err` method for `Result`.
 
 In the past, I...
 
@@ -34,3 +35,4 @@ You can reach me [@alilleybrinker on Twitter][twitter]. My pronouns are he/him.
 [dcalc]: https://github.com/alilleybrinker/dcalc
 [semver-explain]: https://github.com/alilleybrinker/semver-explain
 [good-cat]: https://github.com/alilleybrinker/good-cat
+[replace_err]: https://github.com/alilleybrinker/replace_err
