@@ -11,6 +11,7 @@ Here's some of what I do:
 - 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for explaining SemVer requirements.
 - 🐱 Maintain [good-cat][good-cat], a cat that hates pipes.
 - 🛑 Maintain [replace_err][replace_err], a `replace_err` method for `Result`.
+- 📎 Maintain [gccarch][gccarch], a tool for getting info on GCC's supported architectures.
 
 In the past, I...
 
@@ -36,3 +37,4 @@ You can reach me [@alilleybrinker on Twitter][twitter]. My pronouns are he/him.
 [semver-explain]: https://github.com/alilleybrinker/semver-explain
 [good-cat]: https://github.com/alilleybrinker/good-cat
 [replace_err]: https://github.com/alilleybrinker/replace_err
+[gccarch]: https://github.com/alilleybrinker/gccarch
