@@ -4,19 +4,26 @@ Here's some of what I do:
 
 - 🔧 Work on software supply chain security at [MITRE][mitre].
 - 🎓 Study Computer Science for my MCS at Rice University.
-- 🦀 Teach at [Possible Rust][poss] (on hiatus).
+- 🦀 Write at [Possible Rust][poss] (on hiatus while I'm in school).
 - 🗨️ Keep a [list of languages written in Rust][langs].
-- ⁉️ Maintain [woah][woah], a better `Result` type.
-- ⏲️ Maintain [dcalc][dcalc], a CLI duration calculator.
+- 🖇️ Contribute to [GitBOM][gitbom], a standard and tooling for recording build inputs for software artifacts.
+- 🖨️ Build [cargo-spdx][cargo-spdx], a tool for generating SPDX Software Bills of Materials for Rust builds.
+- ⁉️ Maintain [woah][woah], a `Result` type that separates errors you can handle from errors you can't.
 - 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for explaining SemVer requirements.
+- 🛑 Maintain [replace_err][replace_err], which adds a `replace_err` method for `Result`.
+
+Plus some less-serious or not-currently-active projects:
+
+- 🌐 Creating [Tin][tin], a currently ill-defined programming language.
+- ⏲️ Maintain [dcalc][dcalc], a CLI duration calculator.
 - 🐱 Maintain [good-cat][good-cat], a cat that hates pipes.
-- 🛑 Maintain [replace_err][replace_err], a `replace_err` method for `Result`.
 - 📎 Maintain [gccarch][gccarch], a tool for getting info on GCC's supported architectures.
 
 In the past, I...
 
-- ⛓️ [Built the first FFI interface for Pact](https://github.com/pact-foundation/pact-reference/pull/97).
+- ⛓️ [Built the first FFI interface for Pact](https://github.com/pact-foundation/pact-reference/pull/97), a framework for testing APIs.
 - 🖋️ [Wrote the old Rust FAQ](https://github.com/rust-lang/prev.rust-lang.org/pull/202).
+- 👨‍🏫 [Taught programming language theory to undergrads][proglangs].
 - 🎒 [Spoke at RustConf 2017 about teaching Rust in a programming language theory class](https://www.youtube.com/watch?v=0PhfaFkzdBA).
 - 📖 [Spoke at Rust Belt Rust 2016 about how to write good documentation](https://www.youtube.com/watch?v=Wz2oFEDwiOk).
 
@@ -38,3 +45,6 @@ You can reach me [@alilleybrinker on Twitter][twitter]. My pronouns are he/him.
 [good-cat]: https://github.com/alilleybrinker/good-cat
 [replace_err]: https://github.com/alilleybrinker/replace_err
 [gccarch]: https://github.com/alilleybrinker/gccarch
+[gitbom]: https://github.com/git-bom/gitbom-rs
+[cargo-spdx]: https://github.com/alilleybrinker/cargo-spdx
+[proglangs]: https://github.com/alilleybrinker/programming-languages-course
