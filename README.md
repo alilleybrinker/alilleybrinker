@@ -2,6 +2,7 @@
 
 Here's some of what I do:
 
+- 🔍 Led the development of [Hipcheck][hipcheck], a tool for automated supply chain risk assessment of software repositories.
 - 🔧 Work on software supply chain security at [MITRE][mitre].
 - 🎓 Study Computer Science for my MCS at Rice University.
 - 🦀 Write at [Possible Rust][poss] (on hiatus while I'm in school).
@@ -29,6 +30,7 @@ In the past, I...
 
 You can reach me [@alilleybrinker on Twitter][twitter]. My pronouns are he/him.
 
+[hipcheck]: https://github.com/mitre/hipcheck
 [mitre]: https://mitre.org
 [rust]: https://rust-lang.org
 [poss]: https://www.possiblerust.com
