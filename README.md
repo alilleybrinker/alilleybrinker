@@ -7,7 +7,7 @@ Here's some of what I do:
 - 🎓 Study Computer Science for my MCS at Rice University.
 - 🦀 Write at [Possible Rust][poss] (on hiatus while I'm in school).
 - 🗨️ Keep a [list of languages written in Rust][langs].
-- 🖇️ Contribute to [GitBOM][gitbom], a standard and tooling for recording build inputs for software artifacts.
+- 🖇️ Contribute to [Omnibor][omnibor] (formerly GitBOM), a standard and tooling for recording build inputs for software artifacts.
 - 🖨️ Build [cargo-spdx][cargo-spdx], a tool for generating SPDX Software Bills of Materials for Rust builds.
 - ⁉️ Maintain [woah][woah], a `Result` type that separates errors you can handle from errors you can't.
 - 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for explaining SemVer requirements.
@@ -47,6 +47,6 @@ You can reach me [@alilleybrinker on Twitter][twitter]. My pronouns are he/him.
 [good-cat]: https://github.com/alilleybrinker/good-cat
 [replace_err]: https://github.com/alilleybrinker/replace_err
 [gccarch]: https://github.com/alilleybrinker/gccarch
-[gitbom]: https://github.com/git-bom/gitbom-rs
+[omnibor]: https://github.com/omnibor/gitbom-rs
 [cargo-spdx]: https://github.com/alilleybrinker/cargo-spdx
 [proglangs]: https://github.com/alilleybrinker/programming-languages-course
