@@ -1,5 +1,7 @@
 # Hi, I'm Andrew! :wave:
 
+__Pronouns: he/him__
+
 Here's some of what I do:
 
 - 🔍 Led the development of [Hipcheck][hipcheck], a tool for automated supply chain risk assessment of software repositories.
@@ -27,8 +29,6 @@ In the past, I...
 - 👨‍🏫 [Taught programming language theory to undergrads][proglangs].
 - 🎒 [Spoke at RustConf 2017 about teaching Rust in a programming language theory class](https://www.youtube.com/watch?v=0PhfaFkzdBA).
 - 📖 [Spoke at Rust Belt Rust 2016 about how to write good documentation](https://www.youtube.com/watch?v=Wz2oFEDwiOk).
-
-You can reach me [@alilleybrinker on Twitter][twitter]. My pronouns are he/him.
 
 [hipcheck]: https://github.com/mitre/hipcheck
 [mitre]: https://mitre.org
