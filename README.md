@@ -38,6 +38,10 @@ __Pronouns: he/him__
 - 🎒 [Spoke at RustConf 2017 about teaching Rust in a programming language theory class](https://www.youtube.com/watch?v=0PhfaFkzdBA).
 - 📖 [Spoke at Rust Belt Rust 2016 about how to write good documentation](https://www.youtube.com/watch?v=Wz2oFEDwiOk).
 
+## Lurking
+
+- 🐘 On <a rel="me" href="https://hachyderm.io/@alilleybrinker">Mastodon</a>.
+
 [hipcheck]: https://github.com/mitre/hipcheck
 [mitre]: https://mitre.org
 [rust]: https://rust-lang.org
