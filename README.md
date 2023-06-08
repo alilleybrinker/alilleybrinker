@@ -4,25 +4,33 @@
 
 ### Software Supply Chain Security
 
-- 🔍 Led the development of [Hipcheck][hipcheck], a tool for automated supply chain risk assessment of software repositories.
-- 🖇️ Contribute to [Omnibor][omnibor] (formerly GitBOM), a standard and tooling for recording build inputs for software artifacts.
-- 🖨️ Build [cargo-spdx][cargo-spdx], a tool for generating SPDX Software Bills of Materials for Rust builds.
-- 🔧 Work on software supply chain security at [MITRE][mitre].
+- 🔍 Led the development of __[Hipcheck][hipcheck]__, a tool for automated supply chain risk assessment of software repositories.
+- 🖇️ Contribute to __[OmniBOR][omnibor]__ (formerly GitBOM), a standard and tooling for recording build inputs for software artifacts.
+- 🖨️ Build __[cargo-spdx][cargo-spdx]__, a tool for generating SPDX Software Bills of Materials for Rust builds.
+- 🔧 Work on software supply chain security at __[MITRE][mitre]__.
 
 ### Rust
 
-- 🦀 Write at [Possible Rust][poss] (on hiatus while I'm in school).
-- 🗨️ Keep a [list of languages written in Rust][langs].
-- ⁉️ Maintain [woah][woah], a `Result` type that separates errors you can handle from errors you can't.
-- 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for explaining SemVer requirements.
-- 🛑 Maintain [replace_err][replace_err], which adds a `replace_err` method for `Result`.
+- 🦀 Write at __[Possible Rust][poss]__ (on hiatus).
+- 🗨️ Keep a __[list of languages written in Rust][langs]__.
+- ⁉️ Maintain __[woah][woah]__, a `Result` type that separates errors you can handle from errors you can't.
+- 🏷️ Maintain __[semver-explain][semver-explain]__, a CLI tool for explaining SemVer requirements.
+- 🛑 Maintain __[replace_err][replace_err]__, which adds a `replace_err` method for `Result`.
+- 🏗️ Maintain __[pathbuf][pathbuf]__, a convenient macro for building `PathBuf`s.
+- 🪄 Created __[FindCargo.cmake][findcargo]__, a CMake module for interoperating with Cargo.
 
 ## Less Serious Projects
 
-- 🌐 Creating [Tin][tin], a currently ill-defined programming language.
-- ⏲️ Maintain [dcalc][dcalc], a CLI duration calculator.
-- 🐱 Maintain [good-cat][good-cat], a cat that hates pipes.
-- 📎 Maintain [gccarch][gccarch], a tool for getting info on GCC's supported architectures.
+- ⏲️ Wrote __[dcalc][dcalc]__, a CLI duration calculator.
+- 🐱 Wrote __[good-cat][good-cat]__, a cat that hates pipes.
+- 📎 Wrote __[gccarch][gccarch]__, a tool for getting info on GCC's supported architectures.
+- 📆 Wrote __[skej][skej]__, a little analyzer for concurrent schedules.
+
+## Things I'd Like to Get To
+
+- 🌐 Creating __[Tin][tin]__, a currently ill-defined programming language.
+- 📊 Want to build __[epss][epss]__, a library and CLI for interacting with the Exploit Prediction Scoring System API.
+- 💭 Want to finish building __[shy][shy]__, a POSIX shell static site generator I can use on tilde.institute.
 
 ## Past Projects
 
@@ -56,3 +64,7 @@
 [omnibor]: https://github.com/omnibor/gitbom-rs
 [cargo-spdx]: https://github.com/alilleybrinker/cargo-spdx
 [proglangs]: https://github.com/alilleybrinker/programming-languages-course
+[pathbuf]: https://github.com/alilleybrinker/pathbuf
+[findcargo]: https://github.com/alilleybrinker/FindCargo.cmake
+[epss]: https://github.com/alilleybrinker/epss
+[shy]: https://github.com/alilleybrinker/shy
