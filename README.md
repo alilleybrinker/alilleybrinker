@@ -1,7 +1,5 @@
 # Hi, I'm Andrew! :wave:
 
-__Pronouns: he/him__
-
 ## Current Projects
 
 ### Software Supply Chain Security
@@ -18,10 +16,6 @@ __Pronouns: he/him__
 - ⁉️ Maintain [woah][woah], a `Result` type that separates errors you can handle from errors you can't.
 - 🏷️ Maintain [semver-explain][semver-explain], a CLI tool for explaining SemVer requirements.
 - 🛑 Maintain [replace_err][replace_err], which adds a `replace_err` method for `Result`.
-
-### Other
-
-- 🎓 Study Computer Science for my MCS at Rice University.
 
 ## Less Serious Projects
 
