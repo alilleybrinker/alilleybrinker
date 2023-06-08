@@ -30,7 +30,7 @@
 
 - 🌐 Creating __[Tin][tin]__, a currently ill-defined programming language.
 - 📊 Want to build __[epss][epss]__, a library and CLI for interacting with the Exploit Prediction Scoring System API.
-- 💭 Want to finish building __[shy][shy]__, a POSIX shell static site generator I can use on tilde.institute.
+- 💭 Want to finish building __[shy][shy]__, a POSIX shell static site generator I can use on [tilde.institute][tilde].
 
 ## Past Projects
 
@@ -68,3 +68,4 @@
 [findcargo]: https://github.com/alilleybrinker/FindCargo.cmake
 [epss]: https://github.com/alilleybrinker/epss
 [shy]: https://github.com/alilleybrinker/shy
+[tilde]: https://tilde.institute
