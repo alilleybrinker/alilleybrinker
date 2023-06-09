@@ -1,6 +1,4 @@
-# Hi, I'm Andrew! :wave:
-
-## Current Projects
+## Hi, I'm Andrew! :wave:
 
 ### Software Supply Chain Security
 
@@ -19,20 +17,20 @@
 - 🏗️ Maintain __[pathbuf][pathbuf]__, a convenient macro for building `PathBuf`s.
 - 🪄 Created __[FindCargo.cmake][findcargo]__, a CMake module for interoperating with Cargo.
 
-## Less Serious Projects
+### Less Serious Projects
 
 - ⏲️ Wrote __[dcalc][dcalc]__, a CLI duration calculator.
 - 🐱 Wrote __[good-cat][good-cat]__, a cat that hates pipes.
 - 📎 Wrote __[gccarch][gccarch]__, a tool for getting info on GCC's supported architectures.
 - 📆 Wrote __[skej][skej]__, a little analyzer for concurrent schedules.
 
-## Things I'd Like to Get To
+### Things I'd Like to Get To
 
 - 🌐 Creating __[Tin][tin]__, a currently ill-defined programming language.
 - 📊 Want to build __[epss][epss]__, a library and CLI for interacting with the Exploit Prediction Scoring System API.
 - 💭 Want to finish building __[shy][shy]__, a POSIX shell static site generator I can use on [tilde.institute][tilde].
 
-## Past Projects
+### Past Projects
 
 - ⛓️ [Built the first FFI interface for Pact](https://github.com/pact-foundation/pact-reference/pull/97), a framework for testing APIs.
 - 🖋️ [Wrote the old Rust FAQ](https://github.com/rust-lang/prev.rust-lang.org/pull/202).
@@ -40,7 +38,7 @@
 - 🎒 [Spoke at RustConf 2017 about teaching Rust in a programming language theory class](https://www.youtube.com/watch?v=0PhfaFkzdBA).
 - 📖 [Spoke at Rust Belt Rust 2016 about how to write good documentation](https://www.youtube.com/watch?v=Wz2oFEDwiOk).
 
-## Lurking
+### Lurking
 
 - 🐘 On <a rel="me" href="https://hachyderm.io/@alilleybrinker">Mastodon</a>.
 
