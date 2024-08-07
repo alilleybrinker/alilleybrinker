@@ -1,24 +1,24 @@
-## Hi, I'm Andrew! :wave:
+## Hi, I'm [Andrew][me]! :wave:
 
-### Software Supply Chain Security
+### Big Things
 
-- 🔍 Led the development of __[Hipcheck][hipcheck]__, a tool for automated supply chain risk assessment of software repositories.
+- 🔍 Lead the development of __[Hipcheck][hipcheck]__, a tool for automated supply chain risk assessment of software repositories.
 - 🖇️ Contribute to __[OmniBOR][omnibor]__ (formerly GitBOM), a standard and tooling for recording build inputs for software artifacts.
-- 🖨️ Build __[cargo-spdx][cargo-spdx]__, a tool for generating SPDX Software Bills of Materials for Rust builds.
-- 🔧 Work on software supply chain security at __[MITRE][mitre]__.
+- 🔧 Work as a Principle Engineer at __[MITRE][mitre]__.
 
-### Rust
+### Sometimes I Write
 
+- 🗒️ Write on my __[personal blog][meblog]__ about topics like memory safety, Rust, open source software, and software supply chain security.
 - 🦀 Write at __[Possible Rust][poss]__ (on hiatus).
+
+### Slightly Less Big Things
+
 - 🗨️ Keep a __[list of languages written in Rust][langs]__.
 - ⁉️ Maintain __[woah][woah]__, a `Result` type that separates errors you can handle from errors you can't.
 - 🏷️ Maintain __[semver-explain][semver-explain]__, a CLI tool for explaining SemVer requirements.
 - 🛑 Maintain __[replace_err][replace_err]__, which adds a `replace_err` method for `Result`.
 - 🏗️ Maintain __[pathbuf][pathbuf]__, a convenient macro for building `PathBuf`s.
 - 🪄 Created __[FindCargo.cmake][findcargo]__, a CMake module for interoperating with Cargo.
-
-### Less Serious Projects
-
 - ⏲️ Wrote __[dcalc][dcalc]__, a CLI duration calculator.
 - 🐱 Wrote __[good-cat][good-cat]__, a cat that hates pipes.
 - 📎 Wrote __[gccarch][gccarch]__, a tool for getting info on GCC's supported architectures.
@@ -26,6 +26,7 @@
 
 ### Things I'd Like to Get To
 
+- 🖨️ Building __[cargo-spdx][cargo-spdx]__, a tool for generating SPDX Software Bills of Materials for Rust builds.
 - 🌐 Creating __[Tin][tin]__, a currently ill-defined programming language.
 - 📊 Want to build __[epss][epss]__, a library and CLI for interacting with the Exploit Prediction Scoring System API.
 - 💭 Want to finish building __[shy][shy]__, a POSIX shell static site generator I can use on [tilde.institute][tilde].
@@ -38,10 +39,7 @@
 - 🎒 [Spoke at RustConf 2017 about teaching Rust in a programming language theory class](https://www.youtube.com/watch?v=0PhfaFkzdBA).
 - 📖 [Spoke at Rust Belt Rust 2016 about how to write good documentation](https://www.youtube.com/watch?v=Wz2oFEDwiOk).
 
-### Lurking
-
-- 🐘 On <a rel="me" href="https://hachyderm.io/@alilleybrinker">Mastodon</a>.
-
+[me]: https://www.alilleybrinker.com
 [hipcheck]: https://github.com/mitre/hipcheck
 [mitre]: https://mitre.org
 [rust]: https://rust-lang.org
