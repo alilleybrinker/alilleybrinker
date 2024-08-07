@@ -40,6 +40,7 @@
 - 📖 [Spoke at Rust Belt Rust 2016 about how to write good documentation](https://www.youtube.com/watch?v=Wz2oFEDwiOk).
 
 [me]: https://www.alilleybrinker.com
+[meblog]: https://www.alilleybrinker.com/blog/
 [hipcheck]: https://github.com/mitre/hipcheck
 [mitre]: https://mitre.org
 [rust]: https://rust-lang.org
