@@ -1,10 +1,9 @@
 ## Hi, I'm [Andrew][me]! :wave:
 
-### Big Things
+I am a Principal Engineer at __[MITRE][mitre]__, where I work on a few different things:
 
 - 🔍 Lead the development of __[Hipcheck][hipcheck]__, a tool for automated supply chain risk assessment of software repositories.
 - 🖇️ Contribute to __[OmniBOR][omnibor]__ (formerly GitBOM), a standard and tooling for recording build inputs for software artifacts.
-- 🔧 Work as a Principle Engineer at __[MITRE][mitre]__.
 
 ### Sometimes I Write
 
