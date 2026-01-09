@@ -8,6 +8,7 @@ I am a Principal Engineer at __[MITRE][mitre]__, where I work on a few different
 
 ### Sometimes I Write
 
+- 🛡️ Wrote __["Memory Safety for Skeptics,"][skeptics]__ published in the ACM Queue.
 - 🗒️ Write on my __[personal blog][meblog]__ about topics like memory safety, open source software, and software supply chain security.
 - 🦀 Write at __[Possible Rust][poss]__ with intermediate-level articles teaching what's possible in the Rust programming language.
 
@@ -61,3 +62,4 @@ I am a Principal Engineer at __[MITRE][mitre]__, where I work on a few different
 [epss]: https://github.com/alilleybrinker/epss
 [shy]: https://github.com/alilleybrinker/shy
 [tilde]: https://tilde.institute
+[skeptics]: https://queue.acm.org/detail.cfm?id=3773095
