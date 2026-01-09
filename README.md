@@ -33,7 +33,7 @@ I am a Principal Engineer at __[MITRE][mitre]__, where I work on a few different
 - 🎒 [Spoke at RustConf 2017 about teaching Rust in a programming language theory class](https://www.youtube.com/watch?v=0PhfaFkzdBA).
 - 📖 [Spoke at Rust Belt Rust 2016 about how to write good documentation](https://www.youtube.com/watch?v=Wz2oFEDwiOk).
 - 🎤 [Spoke on a panel at VulnCon 2025 about software identification in CVE](https://www.youtube.com/watch?v=2cNX66z-YLY&list=PLWfD9RQVdJ6cm3kSvz-Sk87CawSzn5Ep0&index=55)
-- 🪲 [Spoke about how memory safety will impacts the future of vulnerabilities at the Cal Poly Pomona SWIFT Tech Symposium 2025](https://www.youtube.com/watch?v=47Y1wN84Gws)
+- 🪲 [Spoke about how memory safety will impact vulnerabilities at the Cal Poly Pomona SWIFT Tech Symposium 2025](https://www.youtube.com/watch?v=47Y1wN84Gws)
 
 [me]: https://www.alilleybrinker.com
 [meblog]: https://www.alilleybrinker.com/blog/
