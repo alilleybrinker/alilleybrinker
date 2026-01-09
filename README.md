@@ -2,13 +2,14 @@
 
 I am a Principal Engineer at __[MITRE][mitre]__, where I work on a few different things:
 
+- ⚠️ Support the development of CVE, the world's largest system for tracking vulnerabilities in software and hardware.
 - 🔍 Lead the development of __[Hipcheck][hipcheck]__, a tool for automated supply chain risk assessment of software repositories.
 - 🖇️ Contribute to __[OmniBOR][omnibor]__ (formerly GitBOM), a standard and tooling for recording build inputs for software artifacts.
 
 ### Sometimes I Write
 
-- 🗒️ Write on my __[personal blog][meblog]__ about topics like memory safety, Rust, open source software, and software supply chain security.
-- 🦀 Write at __[Possible Rust][poss]__ (on hiatus).
+- 🗒️ Write on my __[personal blog][meblog]__ about topics like memory safety, open source software, and software supply chain security.
+- 🦀 Write at __[Possible Rust][poss]__ with intermediate-level articles teaching what's possible in the Rust programming language.
 
 ### Slightly Less Big Things
 
@@ -23,13 +24,6 @@ I am a Principal Engineer at __[MITRE][mitre]__, where I work on a few different
 - 📎 Wrote __[gccarch][gccarch]__, a tool for getting info on GCC's supported architectures.
 - 📆 Wrote __[skej][skej]__, a little analyzer for concurrent schedules.
 
-### Things I'd Like to Get To
-
-- 🖨️ Building __[cargo-spdx][cargo-spdx]__, a tool for generating SPDX Software Bills of Materials for Rust builds.
-- 🌐 Creating __[Tin][tin]__, a currently ill-defined programming language.
-- 📊 Want to build __[epss][epss]__, a library and CLI for interacting with the Exploit Prediction Scoring System API.
-- 💭 Want to finish building __[shy][shy]__, a POSIX shell static site generator I can use on [tilde.institute][tilde].
-
 ### Past Projects
 
 - ⛓️ [Built the first FFI interface for Pact](https://github.com/pact-foundation/pact-reference/pull/97), a framework for testing APIs.
@@ -37,6 +31,8 @@ I am a Principal Engineer at __[MITRE][mitre]__, where I work on a few different
 - 👨‍🏫 [Taught programming language theory to undergrads][proglangs].
 - 🎒 [Spoke at RustConf 2017 about teaching Rust in a programming language theory class](https://www.youtube.com/watch?v=0PhfaFkzdBA).
 - 📖 [Spoke at Rust Belt Rust 2016 about how to write good documentation](https://www.youtube.com/watch?v=Wz2oFEDwiOk).
+- 🎤 [Spoke on a panel at VulnCon 2025 about software identification in CVE](https://www.youtube.com/watch?v=2cNX66z-YLY&list=PLWfD9RQVdJ6cm3kSvz-Sk87CawSzn5Ep0&index=55)
+- 🪲 [Spoke about how memory safety will impacts the future of vulnerabilities at the Cal Poly Pomona SWIFT Tech Symposium 2025](https://www.youtube.com/watch?v=47Y1wN84Gws)
 
 [me]: https://www.alilleybrinker.com
 [meblog]: https://www.alilleybrinker.com/blog/
