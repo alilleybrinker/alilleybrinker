@@ -1,6 +1,6 @@
 ## Hi, I'm [Andrew](https://www.alilleybrinker.com)! 👋
 
-I am a Principal Engineer at **[MITRE](https://mitre.org)**, where I work on a few different things:
+Previously a Principal Engineer at **[MITRE](https://mitre.org)**, where I worked on a few different things:
 
 - ⚠️ Contribute to **[CVE](https://www.cve.org/)**, the world's largest system for tracking vulnerabilities in software and hardware — including authn/authz improvements, Package URL (pURL) support in CVE Records, and the Quality Working Group.
 - 🔍 Lead the development of **[Hipcheck](https://github.com/mitre/hipcheck)**, a tool for automated supply chain risk assessment of software repositories.
