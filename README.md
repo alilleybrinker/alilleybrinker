@@ -4,9 +4,9 @@ Member of Technical Staff at **[Anthropic](https://www.anthropic.com)**.
 
 Previously a Principal Engineer at **[MITRE](https://mitre.org)**, where I worked on a few different things:
 
-- ⚠️ Contribute to **[CVE](https://www.cve.org/)**, the world's largest system for tracking vulnerabilities in software and hardware — including authn/authz improvements, Package URL (pURL) support in CVE Records, and the Quality Working Group.
-- 🔍 Lead the development of **[Hipcheck](https://github.com/mitre/hipcheck)**, a tool for automated supply chain risk assessment of software repositories.
-- 🖇️ Previously served on the **[OmniBOR](https://omnibor.io)** (formerly GitBOM) Core Team, including leading creation of the **[Rust library and CLI](https://github.com/omnibor/omnibor-rs)**.
+- ⚠️ Contributed to **[CVE](https://www.cve.org/)**, the world's largest system for tracking vulnerabilities in software and hardware — including authn/authz improvements, Package URL (pURL) support in CVE Records, and the Quality Working Group.
+- 🔍 Led the development of **[Hipcheck](https://github.com/mitre/hipcheck)**, a tool for automated supply chain risk assessment of software repositories.
+- 🖇️ Served on the **[OmniBOR](https://omnibor.io)** (formerly GitBOM) Core Team, including leading creation of the **[Rust library and CLI](https://github.com/omnibor/omnibor-rs)**.
 
 ### Sometimes I Write
 
