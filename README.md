@@ -1,5 +1,7 @@
 ## Hi, I'm [Andrew](https://www.alilleybrinker.com)! 👋
 
+Member of Technical Staff at **[Anthropic](https://www.anthropic.com)**.
+
 Previously a Principal Engineer at **[MITRE](https://mitre.org)**, where I worked on a few different things:
 
 - ⚠️ Contribute to **[CVE](https://www.cve.org/)**, the world's largest system for tracking vulnerabilities in software and hardware — including authn/authz improvements, Package URL (pURL) support in CVE Records, and the Quality Working Group.
